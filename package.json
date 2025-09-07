@@ -7,8 +7,8 @@
     "email": "lawrie@lamiria.co.tz"
   },
   "scripts": {
-    "dev": "node build/scripts/dev.mjs",
     "build": "node build/scripts/build.mjs",
+    "dev": "node build/scripts/dev.mjs",
     "release": "scripts/publish-mac-arm.sh",
     "postinstall": "electron-rebuild",
     "postuninstall": "electron-rebuild",
