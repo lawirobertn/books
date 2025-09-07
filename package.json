@@ -3,7 +3,30 @@
   "version": "0.33.1",
   "description": "shop accounting software",
   "build": {
-     "productName": "Lamiry Books"
+       "productName": "Lamiry Books",
+        "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*"
+    ],
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "icon": "assets/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,              // Enables directory selection
+      "perMachine": false,
+      "allowElevation": true,
+      "allowToChangeInstallationDirectory": true
+    }
+
+
+
+
+
   },
   "author": {
     "name": "lamiry tech solutions",
