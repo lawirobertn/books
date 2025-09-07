@@ -19,14 +19,14 @@
       "
       style="height: 700px"
     >
-      <!-- Welcome to Frappe Books -->
+      <!-- Welcome to Lamiry Books -->
       <div class="px-4 py-4">
         <h1 class="text-2xl font-semibold select-none dark:text-gray-25">
-          {{ t`Welcome to Frappe Books` }}
+          {{ t`Welcome to Lamiry Books` }}
         </h1>
         <p class="text-gray-600 dark:text-gray-400 text-base select-none">
           {{
-            t`Create a new company or select an existing one from your computer`
+            t`Create a new shop or select an existing one from your computer`
           }}
         </p>
       </div>
@@ -126,7 +126,7 @@
             {{ t`Create Demo` }}
           </p>
           <p class="text-sm text-gray-600 dark:text-gray-400">
-            {{ t`Create a demo company to try out Frappe Books` }}
+            {{ t`Create a demo company to try out Lamiry Books` }}
           </p>
         </div>
       </div>
