@@ -89,10 +89,10 @@
         </div>
         <div>
           <p class="font-medium dark:text-gray-200">
-            {{ t`Existing Company` }}
+            {{ t`Existing Shop` }}
           </p>
           <p class="text-sm text-gray-600 dark:text-gray-400">
-            {{ t`Load an existing company from your computer` }}
+            {{ t`Load an existing shop from your computer` }}
           </p>
         </div>
       </div>
