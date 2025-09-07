@@ -2,6 +2,9 @@
   "name": "lamiry-books",
   "version": "0.33.1",
   "description": "shop accounting software",
+  "build": {
+     "productName": "Lamiry Books"
+  },
   "author": {
     "name": "lamiry tech solutions",
     "email": "lawrie@lamiria.co.tz"
