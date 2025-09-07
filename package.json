@@ -1,10 +1,10 @@
 {
-  "name": "frappe-books",
+  "name": "Lamiry Books",
   "version": "0.33.1",
-  "description": "Simple book-keeping app for everyone",
+  "description": "Shop Accounting Software",
   "author": {
-    "name": "Frappe Technologies Pvt. Ltd.",
-    "email": "hello@frappe.io"
+    "name": "Lamiry Tech Solutions",
+    "email": "lawrie@lamiria.co.tz"
   },
   "scripts": {
     "dev": "node build/scripts/dev.mjs",
